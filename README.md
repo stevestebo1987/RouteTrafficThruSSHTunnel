@@ -1,4 +1,4 @@
-# RouteTrafficThruSSHTunnel (This is Plex Traffic, but can bechanged for other applications)
+# RouteTrafficThruSSHTunnel (This is Plex Traffic, but can be modified for other applications)
 
 Routing plex traffic through an SSH tunnel
 
